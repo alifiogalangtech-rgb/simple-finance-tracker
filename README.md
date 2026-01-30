@@ -2,6 +2,8 @@
 
 A simple web-based application for recording daily income and expenses.
 
+Live Demo: https://alifiogalangtech-rgb.github.io/simple-finance-tracker/
+
 ## Description
 This application helps individuals or small groups track their financial activities by recording income and expenses and automatically calculating totals and balance.
 
